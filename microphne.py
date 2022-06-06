@@ -1,5 +1,4 @@
 import argparse
-import os
 import queue
 import sounddevice as sd
 import vosk
